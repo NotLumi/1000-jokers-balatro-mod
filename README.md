@@ -1,1 +1,1 @@
-Load this mod using steamodded.
+Load this mod using steamodded. -> https://github.com/Steamodded/smods
